@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Alex</h1>
-<h3 align="center">Computer Science student focused on building practical projects and strong fundamentals.</h3>
+<h1 align="center">Hi, I'm Alex</h1>
+<h3 align="center">Computer Science student focused on building practical projects and creating strong fundamental skills.</h3>
 
 ---
 
