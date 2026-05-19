@@ -1,11 +1,11 @@
 <h1 align="center">Hi, I'm Alex</h1>
-<h3 align="center">Computer Science student focused on building practical projects and creating strong fundamental skills.</h3>
+<h3 align="center">Computer Science student focused on building practical, real-world projects </h3>
 
 ---
 
-- 🔭 I’m currently working on a **Stock Journal Scanner** — a Python-based project for logging and organizing trade ideas and scans.
-- 🌱 I’m currently learning **C++** and self-teaching **JavaScript** alongside Python.
-- 🎯 My goal is to build real, resume-ready projects while strengthening core CS concepts.
+-  I’m currently working on a **Trade Journal CLI** — a Python-based project for logging and organizing trade ideas and scans.
+-  I’m currently learning **C++** and self-teaching **JavaScript** alongside Python.
+-  My goal is to build real, resume-ready projects while strengthening core CS concepts.
 
 ---
 
@@ -28,3 +28,9 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5"/>
 </p>
+
+### Featured Projects
+
+- **Trade Journal CLI** — A Python command-line tool for logging trading ideas and aftermarket plans.
+- **Excel to JSON Converter** — A Python tool that converts Excel spreadsheet data into clean JSON with basic validation.
+- **Bakery Cost Calculator** — A C++ project that calculates product costs from recipe and ingredient files.
