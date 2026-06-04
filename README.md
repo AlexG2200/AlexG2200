@@ -5,7 +5,7 @@
 
 -  I’m currently working on a **Trade Journal CLI** — a Python-based project for logging and organizing trade ideas and scans.
 -  I’m currently learning **C++** and self-teaching **JavaScript** alongside Python.
--  My goal is to build real, resume-ready projects while strengthening core CS concepts.
+-  My goal is to build real, resume-ready projects while strengthening CS concepts.
 
 ---
 
